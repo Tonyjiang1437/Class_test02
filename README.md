@@ -2,7 +2,7 @@
 print("Hello!")
 
 
-My first(?) respository on github
+My first respository on github
 
 
 Just a collge student
